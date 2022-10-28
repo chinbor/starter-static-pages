@@ -1,4 +1,4 @@
-# 乙元
+# introduce
 
 ## 一、 前置操作
 若你使用 [create-cp](https://www.npmjs.com/package/create-cp) 创建的项目，你需要先在终端执行如下代码，若直接 clone代码仓库代码创建的项目，也建议删除git记录然后执行如下代码）
